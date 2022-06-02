@@ -1,7 +1,7 @@
-import { AutoBind } from "../decorator/index.js";
-import { DragTarget, ProjectStatus, Project } from "../model/index.js";
-import { ProjectState } from "../state/index.js";
-import { Component, ProjectItem } from "./index.js";
+import { AutoBind } from "../decorator/index";
+import { DragTarget, ProjectStatus, Project } from "../model/index";
+import { ProjectState } from "../state/index";
+import { Component, ProjectItem } from "./index";
 
 export class ProjectList
   extends Component<HTMLDivElement, HTMLElement>

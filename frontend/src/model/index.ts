@@ -1,2 +1,2 @@
-export * from "./project.model.js";
-export * from "./drag-drop.model.js";
+export * from "./project.model";
+export * from "./drag-drop.model";

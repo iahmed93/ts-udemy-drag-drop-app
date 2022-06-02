@@ -1,1 +1,1 @@
-export * from "./auto-bind.decorator.js";
+export * from "./auto-bind.decorator";

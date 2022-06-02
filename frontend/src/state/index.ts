@@ -1,2 +1,2 @@
-export * from "./project.state.js";
-export * from "./base.state.js";
+export * from "./project.state";
+export * from "./base.state";
